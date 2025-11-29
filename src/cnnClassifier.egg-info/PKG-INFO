@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Rramjiiiitdm2011/chicken-disease-classification
+Author: Rramjiiiitdm2011
+Author-email: ramji.iiitdm2011@gmail.com
+Project-URL: Bug Tracker, https://github.com/Rramjiiiitdm2011/chicken-disease-classification/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# chicken-disease-classification
+A deep learning and MLOps-based project for classifying chicken diseases using a modular pipeline, DVC, and deployment-ready architecture.
